@@ -1,10 +1,10 @@
 <div align="center">
 
-  <div>
-    <a href="https://yoo-dev.tistory.com/">
-      <img src="https://img.shields.io/badge/Tech%20blog-000000?style=flat&logo=Tistory&logoColor=white"/>
-    </a>
-  </div>
+  
+  ## Hello, I'm Junior Backend Developer hi0yoo
+  
+  ### Teck Blog
+  <a href="https://yoo-dev.tistory.com/"><img src="https://img.shields.io/badge/Tech%20blog-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
 
   ### Tech Stack 
@@ -26,6 +26,8 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>
   </p>
+  
+---
 
   </br>
   <div>
