@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
   <div>
     <a href="https://yoo-dev.tistory.com/">
       <img src="https://img.shields.io/badge/Tech%20blog-000000?style=flat&logo=Tistory&logoColor=white"/>
